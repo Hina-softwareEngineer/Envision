@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130512822171",
+    "project_id": "envision-611fe",
+    "storage_bucket": "envision-611fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130512822171:android:7b4a14aa63a0e4960f4b3e",
+        "android_client_info": {
+          "package_name": "com.envision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130512822171-9dr8jajjuhl3mcoslbv6t9beqd3sn7u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2dj45fwnMXKPqwrvRc_G6JUb_n1VXH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130512822171-9dr8jajjuhl3mcoslbv6t9beqd3sn7u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
